@@ -1,2 +1,2 @@
 # MaosEstendidas
-Aplicação Web de uma base missionária imaginária
+Aplicação Web de uma base missionária fictícia
